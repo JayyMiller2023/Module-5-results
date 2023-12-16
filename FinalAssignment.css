@@ -1,0 +1,23 @@
+h1 {
+    color:blue;
+    font-family: cursive;
+    -webkit-text-stroke-width: 1.5px;
+    -webkit-text-stroke-color: black;
+}
+
+#Font {
+    color: snow;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    text-align: center;
+}
+
+#toprow {
+    background-color:black;
+    color:lightskyblue;
+}
+
+body {
+    background-color: darkslategray;
+}

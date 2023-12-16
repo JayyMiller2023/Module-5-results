@@ -1,0 +1,14 @@
+body{
+    background-color: ivory;
+}
+
+h1{
+    color:grey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+p{
+    color:darkblue;
+}
